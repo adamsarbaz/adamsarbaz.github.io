@@ -1,0 +1,50 @@
+p
+{
+	color:white;
+	font-size:15pt;
+}
+
+h2
+{
+	color:blue;
+}
+
+h3
+{
+	color:blue;
+}
+
+h1
+{
+	color:blue;
+	text-align:center;
+	font-size:45pt;
+	
+}
+
+body
+{
+	background-color:black;
+}
+h2,h3,h4,h5,h6
+{
+	font-size:30pt;
+}
+
+p
+{
+	font-family:arial;
+}
+
+a:hover
+{
+	background-color:#5700FF;
+}
+a
+{
+	color:#FFC0CB;
+}
+h1,h2,h3,h4,h5
+{
+	font-size:39pt;
+}
